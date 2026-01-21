@@ -1,5 +1,5 @@
 # sci-tech-bot
-Conversational Chatbot for Science and Technology, General Knowledge leveraging the SQuAD (Stanford Question Answering) Dataset
+**Conversational Chatbot for Science and Technology**, General Knowledge leveraging the SQuAD (Stanford Question Answering) Dataset
 
 **Table of Contents**
 
@@ -19,7 +19,7 @@ Conversational Chatbot for Science and Technology, General Knowledge leveraging 
 ---
 
 ### Overview
-This project aims to develop a conversational chatbot that specializes in answering questions related to Science and Technology, General Knowledge by
+This project aims to develop a **conversational chatbot that specializes in answering questions related to Science and Technology, General Knowledge** by
 leveraging the Stanford Question Answering 1.1 Dataset (SQuAD). The chatbot is designed to offer personalized learning experiences through natural dialogue interactions,
 engaging users with follow-up questions and detailed responses.
 
@@ -130,14 +130,6 @@ To run the chatbot application, follow these steps:
    - You can view context, summarize it or switch to new topic
    - You can clear the conversation and start afresh
    - Chatbot also performs profanity check and doesnot allow profane language in the conversation
-
-### Team Members
-
-Mahesh Babu • Keerthana • Paritosh Umeshan
-
-### Acknowledgments
-We would like to thank to our Instructor and project advisor Haisav Chokshi for his invaluable guidance and support throughout the project.
-Special thanks to the creators of the SQuAD dataset for providing such a valuable resource for our research.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
