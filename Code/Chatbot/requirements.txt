@@ -1,0 +1,20 @@
+# Requirements for the Conversational Chatbot Project
+
+# Hugging Face Transformers library for using pre-trained models like BERT
+transformers==4.45.1
+
+# PyTorch for deep learning capabilities
+torch==2.4.0
+
+# Pandas for data manipulation and analysis
+pandas==2.2.3
+
+# Datasets library for loading and working with datasets like SQuAD
+datasets==3.0.1
+
+# Scikit-learn for machine learning utilities
+scikit_learn==1.2.2
+
+# better profanity utility for profanity check
+better_profanity==0.7.0
+
